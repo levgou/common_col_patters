@@ -9,7 +9,7 @@ setup(
     author='Lev Gourevitch',
     author_email='lev.gourevitch@gmail.com',
     url='https://github.com/levgou/common_col_patters',
-    download_url='https://github.com/levgou/common_col_patters/archive/pypi-0_0_1.tar.gz',
+    download_url='https://github.com/levgou/common_col_patters/archive/head.tar.gz',
     keywords=['functional', 'collection', 'common'],
     install_requires=[
         'funcy',
