@@ -12,7 +12,8 @@ Got the inspiration from funcy_ and being tired of typing the same things over a
 
 How to install
 ------------------
-:py:`pip install `
+* :bash:`pip install common_col_patterns`
+
 
 Usage
 --------
