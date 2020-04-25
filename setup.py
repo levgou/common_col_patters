@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name='common_col_patters',
-    packages=['common_col_patters'],
+    name='common_col_patterns',
+    packages=['common_col_patterns'],
     version='0.0.1',
     license='MIT',
     description='Some functional and collection patterns',
